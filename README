@@ -1,0 +1,7 @@
+Vibrant Ink Redux
+
+To install the VibrantInkRedux fonts and colours scheme for Visual Studio, go to Visual Studio > Tools > Import and Export Settings > Import selected environment settings.
+
+NOTE: This is only tested for Visual Studio 2010 with ReSharper 5.0, and Visual Studio Power Tools (http://msdn.microsoft.com/en-us/vstudio/bb980963) installed.
+
+Have fun!
