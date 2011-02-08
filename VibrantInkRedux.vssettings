@@ -212,7 +212,7 @@
 							<Item Name="ReSharper Todo Item" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="ReSharper Type Parameter Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Warning" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Script Comment" Foreground="0x00009300" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Comment" Foreground="0x0000D700" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Script Keyword" Foreground="0x00FFA2A2" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x007171FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
