@@ -136,7 +136,7 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
-					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="11" CharSet="0" FontIsDefault="No">
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontIsDefault="Yes">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x00000000" BoldFont="Yes"/>
 							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00FF9FB0" BoldFont="No"/>
@@ -199,15 +199,22 @@
 							<Item Name="ReSharper Current Line Highlight" Foreground="0x00E0FFFF" Background="0x00004646" BoldFont="No"/>
 							<Item Name="ReSharper Delegate Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Enum Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Field Identifier" Foreground="0x00CC00CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Highlight" Foreground="0x00FACE87" Background="0x00976106" BoldFont="No"/>
 							<Item Name="ReSharper Highlight Target" Foreground="0x00C1B6FF" Background="0x00120079" BoldFont="No"/>
+							<Item Name="ReSharper Hint" Foreground="0x0000B900" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper HTML ID attribute" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Hyperlink" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Interface Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Late Bound Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper LiveTemplates Current HotSpot mirror" Foreground="0x00000000" Background="0x000000FF" BoldFont="No"/>
 							<Item Name="ReSharper Matched Brace" Foreground="0x02000000" Background="0x008E8E00" BoldFont="No"/>
+							<Item Name="ReSharper Method Identifier" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Namespace Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Operator Identifier" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Static Class Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Struct Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Suggestion" Foreground="0x0000E600" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Template Editor Template Keyword" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Todo Item" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="ReSharper Type Parameter Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
