@@ -3,7 +3,6 @@
 	<ToolsOptions>
 		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
 	</ToolsOptions>
-	<Category name="Database Tools" RegisteredName="Database Tools"/>
 	<Category name="Environment_Group" RegisteredName="Environment_Group">
 		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
 			<PropertyValue name="Version">2</PropertyValue>
@@ -145,7 +144,7 @@
 							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Visible White Space" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00385C54" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00395B51" BoldFont="Yes"/>
 							<Item Name="Breakpoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
 							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="Yes"/>
 							<Item Name="Breakpoint (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="Yes"/>
@@ -163,10 +162,12 @@
 							<Item Name="CSS Property Value" Foreground="0x02000000" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS Selector" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="CSS String Value" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="CurrentLineFormat" Foreground="0x00FFFFFF" Background="0x00633A3D" BoldFont="No"/>
+							<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x004E4E4E" BoldFont="No"/>
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
 							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
 							<Item Name="Executing Thread IP" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
-							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x005E998B" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x002F4D46" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="HTML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
@@ -222,6 +223,9 @@
 							<Item Name="Script Comment" Foreground="0x0000D700" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Script Keyword" Foreground="0x00FFA2A2" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x007171FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Signature Help - Keyword" Foreground="0x00FF9F9F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Signature Help - Operator" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Signature Help - Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Stale Code" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="String(C# @ Verbatim)" Foreground="0x006868EC" Background="0x02000000" BoldFont="No"/>
