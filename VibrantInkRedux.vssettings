@@ -167,6 +167,7 @@
 							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
 							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
 							<Item Name="Executing Thread IP" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/FindHighlightFormatting" Foreground="0x00FFFFFF" Background="0x008E008E" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x002F4D46" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="Yes"/>
@@ -203,7 +204,7 @@
 							<Item Name="ReSharper Field Identifier" Foreground="0x00CC00CC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Highlight" Foreground="0x00FACE87" Background="0x00976106" BoldFont="No"/>
 							<Item Name="ReSharper Highlight Target" Foreground="0x00C1B6FF" Background="0x00120079" BoldFont="No"/>
-							<Item Name="ReSharper Hint" Foreground="0x0000B900" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Hint" Foreground="0x00006000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper HTML ID attribute" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Hyperlink" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Interface Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
@@ -215,11 +216,11 @@
 							<Item Name="ReSharper Operator Identifier" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Static Class Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Struct Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Suggestion" Foreground="0x0000E600" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Suggestion" Foreground="0x00007500" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Template Editor Template Keyword" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Todo Item" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="ReSharper Type Parameter Identifier" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Warning" Foreground="0x00FF8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Warning" Foreground="0x00FF0B0B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Comment" Foreground="0x0000D700" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Script Keyword" Foreground="0x00FFA2A2" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x007171FF" Background="0x02000000" BoldFont="No"/>
